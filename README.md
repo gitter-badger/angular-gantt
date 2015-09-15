@@ -1,4 +1,6 @@
 # Gantt chart for Angular.js
+
+[![Join the chat at https://gitter.im/episodeyang/angular-gantt](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/episodeyang/angular-gantt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A Gantt chart directive for Angular.js without any other dependencies.
 
 ####<a href="http://schweigi.github.io/angular-gantt/index.html" target="_blank">TRY THE DEMO</a>
